@@ -1,19 +1,14 @@
 # Jobs
-# VP of Global Communications
-- company: Springfield International Human Rights Outreach
-  position: VP of Global Communications
-  duration: Oct, 2013 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+- company: Silicon Labs, Inc.
+  position:  Analyst / Data Engineer 
+  duration: Aug, 2022 &mdash; Aug, 2024
+  summary: Developed Python and Go scripts to automate data collection and streamline processes, reducing human intervention by over 75%. Created SQL scripts with advanced design patterns to enhance data processing and cut egress costs by 39% between 2023 and 2024. Led the successful migration of legacy systems and reports to the cloud. Worked with various departments to identify key performance indicators and design dashboards for performance tracking. Managed data warehousing to ensure accuracy and efficient retrieval, and created dynamic business intelligence solutions using Tableau and Power BI.
+
+
 
 # Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
-
-
-# Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+- company: KMIT R&D
+  position: Research Assistant
+  duration:  Jan, 2020 &mdash; Jan, 2024
+  summary: Contributed to early-stage breast cancer detection by developing machine learning and deep learning solutions, including APIs for estrogen receptor detection and deep learning models for tubule segmentation in whole-slide images. Enhanced the Allred Scoring system and contributed to related research. Integrated storage and computing clusters into an AI infrastructure framework using Docker-Swarm and HistomicksTK.
+  

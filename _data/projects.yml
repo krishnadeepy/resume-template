@@ -1,16 +1,28 @@
-# Projects
-# uncomment the urls if you wish to display them, and add your own URL
+- project: Hexapod Robot (SpYder)  
+  #role: Contributor  
+  duration: Feb 2020  
+  description: Contributed to the construction of a Hexapod robot designed for discreet exploration. Utilized Raspberry Pi 3 and Arduino components with programming in C and Python. Focused on object detection, surveillance video capture, and seamless uploading.
 
-# jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
-  # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
 
-# Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
-  # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+- project: Robot Mimicking Human Activity  
+  #role: Developer  
+  duration: Jan 2020  
+  description: Developed a system using Microsoft SDK and Python to replicate human arm movements on a life-sized humanoid robot using Kinect 360. Aimed at enhancing industrial safety by mitigating risks associated with heavy machinery.
+
+
+- project: Automated Remote Drone Surveillance (ARMS)  
+  #role: Developer  
+  duration: Oct 2019 &mdash; Dec 2019  
+  description: Created a drone surveillance system inspired by women’s safety. Utilized DJI Phantom 4 Drone, DJI Java SDK, and Firebase to enable the drone to capture video and alert designated contacts upon user command.
+
+
+- project: Built a Drone  
+  #role: Developer  
+  duration: Sep 2019 &mdash; Oct 2019  
+  description: Designed and assembled a drone for college representation at BITS, Hyderabad. Responsibilities included analyzing component requirements, overseeing assembly, ensuring proper weight distribution, and conducting hardware monitoring.
+
+
+- project: Realistic Face Generation  
+  #role: Developer  
+  duration: May 2019 &mdash; Jul 2019  
+  description: Utilized Generative Adversarial Networks (GANs) to generate realistic and novel human faces. Demonstrated GAN capabilities in creating new facial images with applications in art, entertainment, digital content creation, and face anonymization.

@@ -1,12 +1,27 @@
-# Skills
-# Organizational leadership
-- skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
+## Programming Languages
+- skill: Programming Languages
+  description: Proficient in Java, Python, C/C++, Go, Scala, and SQL. Experienced in scripting, application development, and data processing.
 
-# Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
+## Cloud and Data Technologies
+- skill: Cloud and Data Technologies
+  description: Expertise in Azure (including Azure Data Factory), AWS, Databases. skilled in designing, implementing, and optimizing cloud-based solutions and data warehousing. Experience with data migration, orchestration, and performance optimization.
 
-# Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+## Visualization and Business Intelligence
+- skill: Visualization and Business Intelligence
+  description: Proficient in Tableau and Power BI for creating dynamic dashboards and reports. Expertise in developing business intelligence solutions to support data-driven decision-making.
+
+## Operating Systems and Hardware
+- skill: Operating Systems and Hardware
+  description: Knowledgeable in Linux, MacOS, and Windows. Experienced with hardware technologies including Raspberry Pi, Arduino, ArduPilot, Jetson, and Microsoft Kinect360.
+
+## Machine Learning and Deep Learning
+- skill: Machine Learning and Deep Learning
+  description: Experienced in applying machine learning and deep learning techniques for image analysis, including estrogen receptor detection and tubule segmentation.
+
+## Robotic Process Automation (RPA) and Robotics
+- skill: RPA and Robotics
+  description: Developed Python and Go scripts for RPA to reduce manual intervention. Designed and programmed SPYder, an 8-legged robot, for object detection and obstacle avoidance.
+
+## AI Infrastructure and Project Management
+- skill: AI Infrastructure and Project Management
+  description: Proficient in integrating AI infrastructure using Docker-Swarm and HistomicksTK. Experienced in managing data warehousing projects, cloud migrations, and optimizing data solutions.
