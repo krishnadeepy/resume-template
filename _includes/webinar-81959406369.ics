@@ -1,0 +1,71 @@
+BEGIN:VCALENDAR
+PRODID:-//zoom.us//iCalendar Event//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+CLASS:PUBLIC
+BEGIN:VTIMEZONE
+TZID:America/New_York
+LAST-MODIFIED:20250121T082933Z
+TZURL:https://www.tzurl.org/zoneinfo-outlook/America/New_York
+X-LIC-LOCATION:America/New_York
+BEGIN:DAYLIGHT
+TZNAME:EDT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZNAME:EST
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20250224T172301Z
+DTSTART;TZID=America/New_York:20250306T150000
+DTEND;TZID=America/New_York:20250306T160000
+SUMMARY:Job search strategy for international students
+UID:20250224T172301Z-81959406369@fe80:0:0:0:8c06:30ff:fe83:4f6aeth0
+TZID:America/New_York
+DESCRIPTION:Topic: Job search strategy for international students\nDescri
+ ption: This workshop introduces well-established processes for positioni
+ ng yourself to execute a focused and successful US-based job search. Tak
+ e away a four-step framework to optimize your job search game plan and e
+ ffectively network to get your foot in the door. \n\nIN THIS WEBINAR\, Y
+ OU WILL LEARN HOW TO:\n- efficiently target companies that sponsor H-1B 
+ visas and hire international students\n- learn to cultivate and use prof
+ essional connections through strategic networking and informational inte
+ rviews\n- leverage your story\, skills\, expertise\, your university net
+ work\, and brand to achieve your career and life goals\n- practice how t
+ o use your cultural diversity as an advantage and effectively convey you
+ r story to hiring managers\n\nABOUT INTERSTRIDE:\nInterstride is an inte
+ ractive portal to support international students and alums in their job 
+ search\, immigration journey\, and community building. Over 180 institut
+ ions currently utilize the platform to support both international and do
+ mestic students.\n\nJoin from PC\, Mac\, iPad\, or Android:\nhttps://us0
+ 2web.zoom.us/w/81959406369?tk=g-1DUoFmEjwthMR98pW84J57bAAIrm5BJqKLnWeeeq
+ g.DQcAAAATFSlLIRZhMzFmVkRJOFNPR2Rta0JTaDNPcmxRAAAAAAAAAAAAAAAAAAAAAAAAAA
+ AAAAAAAAAAAAA&uuid=WN_QONQtNnaQAGZIiHt0JP4PA\n\nPhone one-tap:\n+1312626
+ 6799\,\,81959406369# US (Chicago)\n+16465588656\,\,81959406369# US (New 
+ York)\n\nJoin via audio:\n+1 312 626 6799 US (Chicago)\n+1 646 558 8656 
+ US (New York)\n+1 646 931 3860 US\n+1 301 715 8592 US (Washington DC)\n+
+ 1 305 224 1968 US\n+1 309 205 3325 US\n+1 564 217 2000 US\n+1 669 444 91
+ 71 US\n+1 669 900 9128 US (San Jose)\n+1 689 278 1000 US\n+1 719 359 458
+ 0 US\n+1 253 205 0468 US\n+1 253 215 8782 US (Tacoma)\n+1 346 248 7799 U
+ S (Houston)\n+1 360 209 5623 US\n+1 386 347 5053 US\n+1 507 473 4847 US\
+ nWebinar ID: 819 5940 6369\nInternational numbers available: https://us0
+ 2web.zoom.us/u/knOZ2QlhT\n\n\n
+LOCATION:https://us02web.zoom.us/w/81959406369?tk=g-1DUoFmEjwthMR98pW84J5
+ 7bAAIrm5BJqKLnWeeeqg.DQcAAAATFSlLIRZhMzFmVkRJOFNPR2Rta0JTaDNPcmxRAAAAAAA
+ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&uuid=WN_QONQtNnaQAGZIiHt0JP4PA
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR
